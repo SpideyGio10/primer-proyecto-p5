@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    width:180px;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 5%;
+}
+
